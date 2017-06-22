@@ -6,9 +6,15 @@ weight = 3
 
 +++
 
-## Help
+## Help!
 
 No fear! I you get stuck with Colmena there are several ways to get support.
+
+## The project does not run!
+
+A lot of times it can help to run `npm run clean` followed by `npm run install` to get the project in a clean state.
+
+In case of any problems running Colmena or a command in it's project folder this is the first thing you should try.
 
 ## I have problems using Colmena
 
@@ -26,6 +32,7 @@ If you found a bug and also the solution, a [PR](https://github.com/colmena/colm
 > 💡 If you plan on submitting a PR with a lot of changes it's best to first discuss it.
 This highly increases the chance of the PR being accepted and thus not losing valuable time.
 
+Don't forget to read about [contributing](./contributing) to Colmena.
 
 ## I need Professional support or Training
 

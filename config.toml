@@ -1,4 +1,4 @@
-#baseURL = "https://colmena-developer-docs.now.sh/"
+baseURL = "https://colmena-docs.now.sh"
 languageCode = "en-us"
 title = "Colmena Developer Documentation"
 theme = "hugo-theme-learn"

@@ -1,0 +1,27 @@
+{
+  "name": "@colmena/colmena-developer-docs",
+  "version": "1.0.0",
+  "description": "Colmena Developer Docs",
+  "main": "index.js",
+  "private": false,
+  "scripts": {
+    "now": "hugo && now ./public -n colmena-docs && now alias"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/colmena/colmena-developer-docs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/colmena/colmena-developer-docs/issues"
+  },
+  "homepage": "https://github.com/colmena/colmena-developer-docs#readme",
+  "now": {
+    "name": "colmena-docs",
+    "alias": [
+      "colmena-docs.now.sh"
+    ]
+  }
+}

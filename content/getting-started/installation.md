@@ -1,6 +1,6 @@
 +++
 date = "2017-06-22T00:13:18-05:00"
-title = "Install Colmena"
+title = "Installation"
 toc = true
 weight = 2
 

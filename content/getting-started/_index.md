@@ -6,6 +6,8 @@ weight = 2
 
 +++
 
+### Chapter 2
+
 # Getting Started
 
 Learn about the requirements and how to install, configure and run Colmena.

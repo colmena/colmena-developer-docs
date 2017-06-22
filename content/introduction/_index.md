@@ -6,9 +6,10 @@ weight = 1
 
 +++
 
-
 ![](https://raw.githubusercontent.com/colmena/colmena/develop/apps/admin/src/assets/logo.png)
 
+
+### Chapter 1
 
 # Introduction
 

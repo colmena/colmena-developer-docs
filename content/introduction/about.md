@@ -6,12 +6,13 @@ weight = 1
 
 +++
 
-## The name
+## Colmena
 
-Colmena ([kolˈmena](https://www.howtopronounce.com/spanish/colmena/)) is the Spanish word for *beehive*. 
+Colmena ([kolˈmena](https://www.howtopronounce.com/spanish/colmena/)) means *beehive* in Spanish. It is named this way because:
 
-The project has this name because of it's modular design and because it aims to be a project where a multiple people
-add benefit for the greater good.
+- it has a modular design.
+- it aims to be a project that grows by combining forces. 
+- it's founder is known as [beeman](https://github.com/beeman).
 
 ## LoopBack Angular Admin
 

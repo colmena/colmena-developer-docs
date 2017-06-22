@@ -31,8 +31,8 @@ It is structured like this:
 
 
 
-> 💡 The difference between an *extension* and a *module* is that modules come with Colmena. 
-So extensions are nothing more than custom or third-party modules.
+> 💡 The difference between an *extension* and a *module* is that *modules* come with Colmena. 
+This means *extensions* are nothing more than custom or third-party *modules*.
 
 
 ## Credits
