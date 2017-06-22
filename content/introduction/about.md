@@ -14,7 +14,17 @@ Colmena ([kolˈmena](https://www.howtopronounce.com/spanish/colmena/)) means *be
 - it aims to be a project that grows by combining forces. 
 - it's founder is known as [beeman](https://github.com/beeman).
 
-## LoopBack Angular Admin
+## LoopBack, Angular and the SDK Builder
 
-Colmena is the successor to a project called [loopback-angular-admin](https://github.com/beeman/loopback-angular-admin)
-and while it has been re-written from scratch it still shares similar ideas 
+The two major projects that Colmena builds on are [LoopBack](https://loopback.io) and [Angular](https://angular.io).
+
+A third important component is the [loopback-sdk-builder](https://github.com/mean-expert-official/loopback-sdk-builder).
+
+The SDK builder generates an TypeScript SDK for the LoopBack server that can be used to builder Angular apps.
+
+Next to these three projects Colmena is built upon a great selection of Free and Open Source projects.
+
+### LoopBack Angular Admin
+
+Colmena is the successor to a project called [loopback-angular-admin](https://github.com/colmena/colmena/tree/loopback-angular-admin#screenshots)
+and while it has been re-written from scratch it still shares similar ideas and the same technologies (albeit later versions). 
