@@ -1,0 +1,12 @@
+baseURL = "https://colmena.github.io/colmena-developer-docs"
+languageCode = "en-us"
+title = "Colmena Developer Documentation"
+theme = "hugo-theme-learn"
+
+
+[params]
+#  editURL = "https://github.com/matcornic/hugo-learn-doc/edit/master/content/"
+#  description = "Documentation for Colmena Developers"
+#  author = "Bram Borggreve"
+  autoNav = true
+  search = true

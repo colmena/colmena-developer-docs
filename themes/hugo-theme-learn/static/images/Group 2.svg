@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="488px" height="445px" viewBox="0 0 488 445" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1-Copy" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-2" transform="translate(-13.000000, -20.000000)">
+            <g id="Group" stroke-width="5" stroke="#FFFFFF">
+                <polygon id="Polygon" transform="translate(128.411633, 138.702461) rotate(30.000000) translate(-128.411633, -138.702461) " points="128.411633 93.9597315 167.159973 116.331096 167.159973 161.073826 128.411633 183.44519 89.6632929 161.073826 89.6632929 116.331096"></polygon>
+                <polygon id="Polygon" transform="translate(61.297539, 99.776286) rotate(30.000000) translate(-61.297539, -99.776286) " points="61.2975391 55.033557 100.045879 77.4049217 100.045879 122.147651 61.2975391 144.519016 22.5491989 122.147651 22.5491989 77.4049217"></polygon>
+                <polygon id="Polygon" transform="translate(128.411633, 61.297539) rotate(30.000000) translate(-128.411633, -61.297539) " points="128.411633 16.5548098 167.159973 38.9261745 167.159973 83.6689038 128.411633 106.040268 89.6632929 83.6689038 89.6632929 38.9261745"></polygon>
+            </g>
+            <text id="COLMENA" font-family="HelveticaNeue-Thin, Helvetica Neue" font-size="140" font-weight="300" letter-spacing="13.6999998" fill="#FFFFFF">
+                <tspan x="199.552573" y="135">COL</tspan>
+                <tspan x="199.552573" y="300">ME</tspan>
+                <tspan x="199.552573" y="465">N</tspan>
+                <tspan x="308.172573" y="465">A</tspan>
+            </text>
+        </g>
+    </g>
+</svg>
