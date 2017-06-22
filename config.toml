@@ -9,4 +9,4 @@ theme = "hugo-theme-learn"
   description = "Documentation for Colmena Developers"
   author = "Bram Borggreve"
   autoNav = true
-  search = true
+  search = false

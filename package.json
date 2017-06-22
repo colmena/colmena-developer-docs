@@ -5,6 +5,7 @@
   "main": "index.js",
   "private": false,
   "scripts": {
+    "index": "mkdir -p static/json && lunr-hugo -i 'content/**/*.md' -o static/json/search.json -l toml",
     "now": "hugo && now ./public -n colmena-docs && now alias"
   },
   "repository": {
@@ -23,5 +24,8 @@
     "alias": [
       "colmena-docs.now.sh"
     ]
+  },
+  "dependencies": {
+    "lunr-hugo": "^0.1.2"
   }
 }
