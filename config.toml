@@ -3,6 +3,8 @@ languageCode = "en-us"
 title = "Colmena Developer Documentation"
 theme = "hugo-theme-learn"
 
+googleAnalytics = "UA-101479356-1"
+
 
 [params]
   editURL = "https://github.com/colmena/colmena-developer-docs/edit/master/content/"
