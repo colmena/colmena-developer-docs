@@ -14,7 +14,7 @@ weight = 1
 # Introduction
 
 
-Colmena is a Free and Open Source platform that allows you to quickly build modular content management systems
+Colmena is a Free and Open Source development platform that allows you to quickly build modular content management systems
 that consist of a REST API and an Admin UI.
 
 
