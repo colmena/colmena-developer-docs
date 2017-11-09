@@ -24,7 +24,7 @@ into the `extensions` folder of your Colmena installation.
 
 ## Configure the LoopBack API
 
-- Open the file `apps/api/config/default.yaml` and add this line to the `colmena.modules` object. This makes sure the API
+- Open the file `config/default.yaml` and add this line to the `colmena.modules` object. This makes sure the API
 loads the new module.
 
 ```yaml

@@ -10,13 +10,13 @@ weight = 5
 
 
 The API of Colmena is configured by [node-config](https://github.com/lorenwest/node-config/) and the configuration files
-are located in `apps/api/config`. 
+are located in `config`. 
 
 
 To configure the API in local development create a copy of `default.yaml` to `local.yaml`:
 
 ```
-cp apps/api/config/default.yaml apps/api/config/local.yaml
+cp config/default.yaml config/local.yaml
 ```
 
 
@@ -52,7 +52,7 @@ the API server restarts.
 
 This means that in order to be useful you'd have to run Colmena with `initdb` mode on, which slows down API start significantly.
 
-To configure MongoDB add the following lines to  `apps/api/config/local.yaml` :
+To configure MongoDB add the following lines to  `config/local.yaml` :
 
 ```yaml
 mongodb:
@@ -65,7 +65,7 @@ Mailhog is an SMTP-server with a web interface that is useful for testing the em
 
 It's not required to configure Mailhog but it is recommended.
 
-To configure Mailhog add the following lines to  `apps/api/config/local.yaml` :
+To configure Mailhog add the following lines to  `config/local.yaml` :
 
 ```
 smtp:
